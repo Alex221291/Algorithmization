@@ -10,7 +10,6 @@ public class Task1 {
         int[] a = new int[console.nextInt()];
         System.out.println("Enter K: ");
         int K = console.nextInt();
-        //заменяем повторные цифры в числах на '-'
         for (int i = 0; i <= a.length - 1; i++) {
             a[i] = (int) (Math.random() * 1000 + 1);
             System.out.print(a[i] + " ");
