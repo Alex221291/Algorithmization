@@ -28,7 +28,7 @@ public class Task3 {
                 else {
                     minusQuantity++;
                 }
-            }
+            } 
         }
         System.out.println("\nquantity of negative numbers: " + minusQuantity);
         System.out.println("quantity of zero numbers: " + zeroQuantity);
