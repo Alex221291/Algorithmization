@@ -23,7 +23,7 @@ public class Task6 {
                 }
             } if (count == 0) {
                 sum += a[i];
-            }
+            } 
         }
         System.out.print("\nsum = " + sum);
     }
