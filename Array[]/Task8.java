@@ -40,7 +40,7 @@ public class Task8 {
     public static int minQuantityArray(int[] a, int min)
     {
         int minQuant = 0;
-        for (int i = 1; i < a.length; i++) {
+        for (int i = 0; i < a.length; i++) {
             if (min == a[i]) {
                 minQuant++;
             }
