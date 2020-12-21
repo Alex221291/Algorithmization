@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 //10. Найти положительные элементы главной диагонали квадратной матрицы.
 
-public class Task {
+public class Task10 {
 
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
