@@ -6,7 +6,7 @@ public class Task15 {
 
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
-        System.out.println("Enter length matrix A[m,n]");
+        System.out.println("Enter length matrix A[n,m]");
         int n = console.nextInt();
         int m = console.nextInt();
         int[][] a = new int[n][m];
