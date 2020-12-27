@@ -48,5 +48,5 @@ public class Task1 {
             System.out.print(arr[i] + "  ");
         }
         System.out.println("");
-    }
+    } 
 }
