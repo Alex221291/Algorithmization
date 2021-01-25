@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Task14 {
     public static void main(String[] args)  {
         Scanner console = new Scanner(System.in);
-        System.out.println("Enter equals k (k => 2):");
+        System.out.println("Enter equals k (k => 1):");
         int k = console.nextInt();
         numberArmstrong(k);
     }public static int sumNumber(int num)
