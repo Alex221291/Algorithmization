@@ -8,7 +8,7 @@ public class Task1 {
         Scanner console = new Scanner(System.in);
         System.out.println(" Enter equals a b (a>=1, b>=1) :");
         int a = console.nextInt();
-        int b = console.nextInt();
+        int b = console.nextInt(); 
         System.out.println("NOD(" + a + ", " + b + ") = " + NOD(a, b));
         System.out.println("NOK(" + a + ", " + b + ") = " + NOK(a, b));
     }
